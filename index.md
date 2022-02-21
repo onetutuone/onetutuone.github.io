@@ -1,1 +1,1 @@
-this is just me trying to understand something
+explainers and writeups of blockchain related topics
