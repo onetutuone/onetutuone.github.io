@@ -1,7 +1,7 @@
 ## ERC 20 Token with Foundry
 
 Foundry is the new kid in town for smart contract developement and testing, it's fast and the tests are written in solidity.
-for more info check [foundry](https://github.com/gakonst/foundry/).
+for more info check [foundry](https://onbjerg.github.io/foundry-book/).
 
 This are the getters, functions and events that is defined in ERC-20 Token standard
 
